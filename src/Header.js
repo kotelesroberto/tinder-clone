@@ -17,7 +17,7 @@ function Header() {
         className="header__logo"
       />
 
-      <IconButton aria-label="profile">
+      <IconButton aria-label="messages">
         <QuestionAnswerIcon fontSize="large" className="header__icon" />
       </IconButton>
     </div>
