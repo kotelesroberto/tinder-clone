@@ -1,4 +1,4 @@
-# Tinder clone
+# Tinder clone MERN Stack (MongoDB, Express, React, Node JS)
 
 ![Tinder](https://1000logos.net/wp-content/uploads/2018/07/tinder-logo.png)
 
