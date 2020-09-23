@@ -1,8 +1,11 @@
+
 # Tinder clone MERN Stack (MongoDB, Express, React, Node JS)
 
-![Tinder](https://1000logos.net/wp-content/uploads/2018/07/tinder-logo.png)
 
-![enter image description here](https://www.metaltoad.com/sites/default/files/styles/large_personal_photo_870x500_/public/2020-05/react-js-blog-header.png?itok=VbfDeSgJ)
+| Tinder | React |
+| ------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------- |
+| ![Tinder](https://cdn.iconscout.com/icon/free/png-256/tinder-7-226557.png) | ![enter image description here](https://files.readme.io/320345b-React_Logo_256x256.png) |
+
 
 This nice **React** application is a clone of basic Tinder website. To be honest this is just a simple frontend part to demonstrate all of deployments behind (see below) work well.
 
@@ -30,7 +33,8 @@ This nice **React** application is a clone of basic Tinder website. To be honest
 
 ## Demo
 
-https://tinderapp-backend.herokuapp.com/
+[Frontend](https://tinder-clone-561e0.web.app)
+[Backend](https://tinderapp-backend.herokuapp.com/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
